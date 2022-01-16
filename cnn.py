@@ -159,7 +159,6 @@ class CNN:
 
 cnn = CNN(train_X, train_y, test_X, test_y)
 cnn.train()
-cnn.test()
 
 row = 3
 col = 4
